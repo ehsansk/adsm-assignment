@@ -11,7 +11,7 @@ function Home() {
   }, []);
   return (
     <div className="bg-color d-flex justify-content-center align-items-center">
-      <img src="./Vodafone_idea_logo.png" className="App-logo" alt="logo" />
+      <img src="./logo.png" className="App-logo" alt="logo" />
     </div>
   );
 }
